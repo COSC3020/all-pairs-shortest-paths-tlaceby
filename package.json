@@ -1,0 +1,21 @@
+{
+  "name": "all-pairs-shortest-paths",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2i4vCRmk) # All Pairs Shortest Paths",
+  "main": "code.js",
+  "scripts": {
+    "test": "node code.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COSC3020/all-pairs-shortest-paths-tlaceby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COSC3020/all-pairs-shortest-paths-tlaceby/issues"
+  },
+  "homepage": "https://github.com/COSC3020/all-pairs-shortest-paths-tlaceby#readme"
+}
