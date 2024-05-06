@@ -75,3 +75,7 @@ export function allPairsShortestPaths(graph) {
 2. In the main function `allPairsShortestPaths()` we iterate $i, j$ & $k$ from $0 \to n$. These loops are nested, therefore the number of iterations in the worst-case is always $\Theta(v^3)$.
 
 In conclusion we can see that the worst-case complexity of this implimentation is $\Theta(v^2 + v^3)$ which simplifies to $\Theta(v^3)$.
+
+## Resources Used
+
+- https://www.youtube.com/watch?v=4NQ3HnhyNfQ
